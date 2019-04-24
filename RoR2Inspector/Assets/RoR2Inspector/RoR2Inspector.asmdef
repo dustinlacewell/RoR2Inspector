@@ -1,0 +1,23 @@
+{
+    "name": "RoR2Inspector",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "MultiMod.Interface.dll",
+        "Assembly-CSharp.dll",
+        "BepInEx.dll",
+        "MMHOOK_Assembly-CSharp.dll",
+        "R2API.dll",
+        "RuntimeInspector.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

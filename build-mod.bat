@@ -1,0 +1,1 @@
+Unity.exe -batchmode -nographics -projectPath RoR2Inspector -disable-assembly-updater -executeMethod Builder.PerformBuild -quit
